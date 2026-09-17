@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Challenge-provided corpus (do not redistribute)
+dataset/
+
+# Regenerated at runtime
+code/messages_cache.json
